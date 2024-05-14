@@ -1,0 +1,11 @@
+# go cli
+1. go mod init {name_module}
+2. go run {file_name}
+3. go mod edit --replace {name_module}={path_module}
+4. go test --flag
+
+# learning process
+1. init go nodule
+2. go import another module in local   
+3. handle error in go 
+4. write unit-test in go
